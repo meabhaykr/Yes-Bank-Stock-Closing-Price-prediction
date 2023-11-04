@@ -1,5 +1,5 @@
 # Yes Bank Stock Closing Price Prediction 📈💰
-![Yes Bank Stock Closing Price Prediction.png](https://github.com/meabhaykr/Yes-Bank-Stock-Closing-Price-prediction/blob/main/image/Yes%20Bank%20Stock%20Closing%20Price%20Prediction.png)
+![Yes Bank.png]([https://github.com/meabhaykr/Yes-Bank-Stock-Closing-Price-prediction/blob/main/image/Yes%20Bank%20Stock%20Closing%20Price%20Prediction.png](https://github.com/meabhaykr/Yes-Bank-Stock-Closing-Price-prediction/blob/main/image/Yes%20Bank.png))
 ## Overview
 Welcome to the "Yes Bank Stock Closing Price Prediction" project! In this exciting venture, we'll explore the fascinating world of financial modeling to predict the monthly closing prices of Yes Bank, one of India's prominent financial institutions. This endeavor is particularly noteworthy due to the impact of a significant fraud case involving Rana Kapoor in 2018. Our primary mission is to gauge how such a high-profile event influences stock prices and whether predictive models, including time series models, can help us make sense of the financial landscape.
 
